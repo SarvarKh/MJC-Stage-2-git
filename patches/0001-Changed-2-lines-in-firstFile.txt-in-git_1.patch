@@ -1,0 +1,26 @@
+From dd56145c1335aa3f6ec39414fc2b60e9649ff196 Mon Sep 17 00:00:00 2001
+From: Sarvar Khalimov <khalimovsarvar@gmail.com>
+Date: Sat, 31 Dec 2022 21:22:10 +0500
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 828dbaa..64cb1e2 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
+\ No newline at end of file
++Changed firstFile.txt to git_1
++Changed firstFile.txt to git_1
+\ No newline at end of file
+-- 
+2.39.0
+
